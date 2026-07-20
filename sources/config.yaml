@@ -8,10 +8,9 @@
 # directory.
 sources:
   - robomatn.ufo
-  - robomatn.ufo
 # You don't have to supply the family name, but builds are slightly
 # faster if you do.
-familyName: "RoboMatn.ufo"
+familyName: "RoboMatn"
 
 # Next you can supply alternative paths for where you want the
 # binaries to live. But we'd recommend you stick to the defaults
@@ -27,8 +26,8 @@ familyName: "RoboMatn.ufo"
 # determine which targets to build. We turn off OTFs for this demo.
 
 # buildVariable: true
-# buildStatic: true
-# buildTTF: true
+buildStatic: true
+buildTTF: true
 buildOTF: false
 # buildSmallCap: false
 
@@ -55,6 +54,12 @@ buildOTF: false
 # extraVariableFontmakeArgs: ""
 # extraStaticFontmakeArgs: ""
 # glyphData: GlyphData.xml
+
+instances:
+  - name: RoboMatn-Regular
+    weight: 400
+  - name: RoboMatn-Bold
+    weight: 700
 
 # This control how STAT tables are generated. The STAT table is
 # specified here as a list of axis names, tags and values. You
