@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="U.smcp" format="2">
+  <advance width="1149"/>
+  <anchor x="574" y="0" name="Anchor-1"/>
+  <anchor x="576" y="1320" name="Anchor-0"/>
+  <outline>
+    <contour>
+      <point x="849" y="1165" type="line"/>
+      <point x="1035" y="1165" type="line"/>
+      <point x="1035" y="385" type="line" smooth="yes"/>
+      <point x="1035" y="253"/>
+      <point x="910" y="74"/>
+      <point x="701" y="-16"/>
+      <point x="575" y="-16" type="qcurve" smooth="yes"/>
+      <point x="444" y="-16"/>
+      <point x="237" y="74"/>
+      <point x="117" y="253"/>
+      <point x="117" y="385" type="qcurve" smooth="yes"/>
+      <point x="117" y="1165" type="line"/>
+      <point x="300" y="1165" type="line"/>
+      <point x="300" y="385" type="line" smooth="yes"/>
+      <point x="300" y="256"/>
+      <point x="452" y="135"/>
+      <point x="575" y="135" type="qcurve" smooth="yes"/>
+      <point x="700" y="135"/>
+      <point x="849" y="256"/>
+      <point x="849" y="385" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

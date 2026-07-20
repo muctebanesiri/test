@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="T.c2sc" format="2">
+  <advance width="1063"/>
+  <anchor x="530" y="1320" name="Anchor-5"/>
+  <anchor x="1063" y="1600" name="Anchor-4"/>
+  <anchor x="1063" y="-407" name="Anchor-3"/>
+  <anchor x="531" y="3" name="Anchor-2"/>
+  <anchor x="1063" y="1320" name="Anchor-1"/>
+  <anchor x="530" y="1320" name="Anchor-0"/>
+  <outline>
+    <contour>
+      <point x="622" y="1165" type="line"/>
+      <point x="622" y="0" type="line"/>
+      <point x="438" y="0" type="line"/>
+      <point x="438" y="1165" type="line"/>
+    </contour>
+    <contour>
+      <point x="1021" y="1165" type="line"/>
+      <point x="1021" y="1012" type="line"/>
+      <point x="41" y="1012" type="line"/>
+      <point x="41" y="1165" type="line"/>
+    </contour>
+  </outline>
+</glyph>

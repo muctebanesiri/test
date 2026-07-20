@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni048A" format="2">
+  <advance width="1545"/>
+  <unicode hex="048A"/>
+  <anchor x="733" y="1891" name="Anchor-5"/>
+  <anchor x="1461" y="1612" name="Anchor-1"/>
+  <anchor x="733" y="1891" name="Anchor-0"/>
+  <outline>
+    <component base="uni0418"/>
+    <component base="breve" xOffset="305" yOffset="322"/>
+    <component base="comma" xOffset="1151" yOffset="-68"/>
+  </outline>
+</glyph>

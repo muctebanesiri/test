@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Wacute.c2sc" format="2">
+  <advance width="1557"/>
+  <anchor x="786" y="1320" name="Anchor-5"/>
+  <anchor x="1557" y="1600" name="Anchor-4"/>
+  <anchor x="1557" y="-407" name="Anchor-3"/>
+  <anchor x="786" y="10" name="Anchor-2"/>
+  <anchor x="1557" y="1320" name="Anchor-1"/>
+  <anchor x="786" y="1671" name="Anchor-0"/>
+  <outline>
+    <component base="W.c2sc"/>
+    <component base="acute" xOffset="561" yOffset="30"/>
+  </outline>
+</glyph>

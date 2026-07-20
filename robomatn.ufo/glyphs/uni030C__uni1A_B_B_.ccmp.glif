@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni030C_uni1ABB.ccmp" format="2">
+  <advance width="0"/>
+  <anchor x="-582" y="1563" name="Anchor-11"/>
+  <anchor x="-582" y="1290" name="_Anchor-11"/>
+  <anchor x="-582" y="1563" name="Anchor-10"/>
+  <anchor x="-582" y="1290" name="_Anchor-0"/>
+  <outline>
+    <contour>
+      <point x="-942" y="1171" type="line"/>
+      <point x="-977" y="1182"/>
+      <point x="-1063" y="1237"/>
+      <point x="-1124" y="1327"/>
+      <point x="-1124" y="1389" type="qcurve" smooth="yes"/>
+      <point x="-1124" y="1449"/>
+      <point x="-1063" y="1537"/>
+      <point x="-977" y="1593"/>
+      <point x="-942" y="1603" type="qcurve"/>
+      <point x="-933" y="1533" type="line"/>
+      <point x="-967" y="1517"/>
+      <point x="-1029" y="1448"/>
+      <point x="-1029" y="1389" type="qcurve" smooth="yes"/>
+      <point x="-1029" y="1325"/>
+      <point x="-967" y="1257"/>
+      <point x="-933" y="1239" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="-220" y="1171" type="qcurve"/>
+      <point x="-229" y="1239" type="line"/>
+      <point x="-195" y="1257"/>
+      <point x="-133" y="1324"/>
+      <point x="-133" y="1389" type="qcurve" smooth="yes"/>
+      <point x="-133" y="1450"/>
+      <point x="-194" y="1517"/>
+      <point x="-229" y="1533" type="qcurve"/>
+      <point x="-220" y="1603" type="line"/>
+      <point x="-184" y="1593"/>
+      <point x="-99" y="1538"/>
+      <point x="-38" y="1450"/>
+      <point x="-38" y="1389" type="qcurve" smooth="yes"/>
+      <point x="-38" y="1327"/>
+      <point x="-99" y="1237"/>
+      <point x="-184" y="1182"/>
+    </contour>
+    <contour>
+      <point x="-734" y="1515" type="line"/>
+      <point x="-585" y="1365" type="line"/>
+      <point x="-435" y="1515" type="line"/>
+      <point x="-273" y="1515" type="line"/>
+      <point x="-273" y="1497" type="line"/>
+      <point x="-527" y="1252" type="line"/>
+      <point x="-643" y="1252" type="line"/>
+      <point x="-893" y="1494" type="line"/>
+      <point x="-893" y="1515" type="line"/>
+    </contour>
+  </outline>
+</glyph>

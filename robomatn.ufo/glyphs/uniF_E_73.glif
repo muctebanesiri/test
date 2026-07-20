@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFE73" format="2">
+  <advance width="691"/>
+  <unicode hex="FE73"/>
+  <anchor x="359" y="1055" name="Anchor-6"/>
+  <anchor x="437" y="-222" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="105" y="444" type="qcurve" smooth="yes"/>
+      <point x="105" y="464" type="line"/>
+      <point x="295" y="464" type="line"/>
+      <point x="295" y="441" type="line" smooth="yes"/>
+      <point x="295" y="182"/>
+      <point x="633" y="182" type="qcurve" smooth="yes"/>
+      <point x="709" y="182" type="line"/>
+      <point x="709" y="0" type="line"/>
+      <point x="623" y="0" type="line" smooth="yes"/>
+      <point x="105" y="0"/>
+    </contour>
+  </outline>
+</glyph>

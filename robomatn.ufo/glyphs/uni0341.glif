@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0341" format="2">
+  <advance width="0"/>
+  <unicode hex="0341"/>
+  <anchor x="-103" y="1614" name="Anchor-11"/>
+  <anchor x="-103" y="1290" name="_Anchor-11"/>
+  <anchor x="-103" y="1614" name="Anchor-10"/>
+  <anchor x="-103" y="1290" name="_Anchor-0"/>
+  <outline>
+    <component base="acute" xOffset="-336"/>
+  </outline>
+</glyph>

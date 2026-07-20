@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFBDB" format="2">
+  <advance width="910"/>
+  <unicode hex="FBDB"/>
+  <anchor x="425" y="1471" name="Anchor-6"/>
+  <anchor x="437" y="-661" name="Anchor-4"/>
+  <outline>
+    <component base="uni0670" xOffset="320" yOffset="-180"/>
+    <component base="uni0648"/>
+  </outline>
+</glyph>

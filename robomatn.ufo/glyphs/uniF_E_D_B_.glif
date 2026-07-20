@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFEDB" format="2">
+  <advance width="909"/>
+  <unicode hex="FEDB"/>
+  <anchor x="344" y="1364" name="Anchor-6"/>
+  <anchor x="326" y="-248" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="220" y="970" type="line"/>
+      <point x="307" y="909"/>
+      <point x="495" y="774"/>
+      <point x="658" y="621"/>
+      <point x="759" y="448"/>
+      <point x="759" y="350" type="qcurve" smooth="yes"/>
+      <point x="758" y="164"/>
+      <point x="503" y="0"/>
+      <point x="224" y="0" type="qcurve" smooth="yes"/>
+      <point x="-20" y="0" type="line"/>
+      <point x="-20" y="182" type="line"/>
+      <point x="223" y="182" type="line" smooth="yes"/>
+      <point x="417" y="182"/>
+      <point x="585" y="251"/>
+      <point x="585" y="354" type="qcurve" smooth="yes"/>
+      <point x="585" y="420"/>
+      <point x="492" y="546"/>
+      <point x="345" y="669"/>
+      <point x="177" y="788"/>
+      <point x="103" y="846" type="qcurve" smooth="yes"/>
+      <point x="71" y="872"/>
+      <point x="37" y="942"/>
+      <point x="37" y="977" type="qcurve" smooth="yes"/>
+      <point x="37" y="1018"/>
+      <point x="82" y="1091"/>
+      <point x="130" y="1110" type="qcurve" smooth="yes"/>
+      <point x="849" y="1402" type="line"/>
+      <point x="849" y="1225" type="line"/>
+    </contour>
+  </outline>
+</glyph>

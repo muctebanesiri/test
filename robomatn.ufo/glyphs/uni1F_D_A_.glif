@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FDA" format="2">
+  <advance width="557"/>
+  <unicode hex="1FDA"/>
+  <anchor x="279" y="1612" name="Anchor-5"/>
+  <anchor x="557" y="1600" name="Anchor-4"/>
+  <anchor x="557" y="-407" name="Anchor-3"/>
+  <anchor x="279" y="9" name="Anchor-2"/>
+  <anchor x="557" y="1612" name="Anchor-1"/>
+  <anchor x="279" y="1612" name="Anchor-0"/>
+  <outline>
+    <component base="I"/>
+    <component base="uni1FEF" xOffset="-60" yOffset="430"/>
+  </outline>
+</glyph>

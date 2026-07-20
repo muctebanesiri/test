@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E1E" format="2">
+  <advance width="1132"/>
+  <unicode hex="1E1E"/>
+  <anchor x="619" y="1612" name="Anchor-5"/>
+  <anchor x="1132" y="1600" name="Anchor-4"/>
+  <anchor x="1132" y="-407" name="Anchor-3"/>
+  <anchor x="531" y="10" name="Anchor-2"/>
+  <anchor x="1132" y="1612" name="Anchor-1"/>
+  <anchor x="618" y="1894" name="Anchor-0"/>
+  <outline>
+    <component base="F"/>
+    <component base="dotaccent" xOffset="368" yOffset="322"/>
+  </outline>
+</glyph>

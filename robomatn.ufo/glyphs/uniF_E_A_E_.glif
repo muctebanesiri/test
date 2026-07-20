@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFEAE" format="2">
+  <advance width="791"/>
+  <unicode hex="FEAE"/>
+  <anchor x="408" y="887" name="Anchor-6"/>
+  <anchor x="332" y="-634" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="784" y="0" type="line" smooth="yes"/>
+      <point x="715" y="0"/>
+      <point x="622" y="37"/>
+      <point x="596" y="58" type="qcurve"/>
+      <point x="581" y="-73"/>
+      <point x="466" y="-318"/>
+      <point x="236" y="-500"/>
+      <point x="47" y="-537" type="qcurve"/>
+      <point x="-12" y="-379" type="line"/>
+      <point x="232" y="-326"/>
+      <point x="432" y="-61"/>
+      <point x="432" y="120" type="qcurve" smooth="yes"/>
+      <point x="432" y="205"/>
+      <point x="395" y="392"/>
+      <point x="362" y="489" type="qcurve"/>
+      <point x="528" y="545" type="line"/>
+      <point x="582" y="336" type="line" smooth="yes"/>
+      <point x="604" y="252"/>
+      <point x="700" y="182"/>
+      <point x="773" y="182" type="qcurve" smooth="yes"/>
+      <point x="811" y="182" type="line"/>
+      <point x="811" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

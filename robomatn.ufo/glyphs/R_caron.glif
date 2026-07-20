@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Rcaron" format="2">
+  <advance width="1262"/>
+  <unicode hex="0158"/>
+  <anchor x="611" y="10" name="Anchor-1"/>
+  <anchor x="610" y="1601" name="Anchor-0"/>
+  <outline>
+    <component base="R"/>
+    <component base="caron" xOffset="160" yOffset="311"/>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Scircumflex.c2sc" format="2">
+  <advance width="1056"/>
+  <anchor x="543" y="1320" name="Anchor-5"/>
+  <anchor x="1056" y="1600" name="Anchor-4"/>
+  <anchor x="1056" y="-407" name="Anchor-3"/>
+  <anchor x="552" y="0" name="Anchor-2"/>
+  <anchor x="1056" y="1320" name="Anchor-1"/>
+  <anchor x="543" y="1667" name="Anchor-0"/>
+  <outline>
+    <component base="S.c2sc"/>
+    <component base="circumflex" xOffset="72" yOffset="30"/>
+  </outline>
+</glyph>
