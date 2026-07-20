@@ -55,11 +55,12 @@ buildOTF: false
 # extraStaticFontmakeArgs: ""
 # glyphData: GlyphData.xml
 
-instances:
+# Define the static font outputs
+fonts:
   - name: RoboMatn-Regular
-    weight: 400
+    source: robomatn.ufo
   - name: RoboMatn-Bold
-    weight: 700
+    source: robomatn.ufo
 
 # This control how STAT tables are generated. The STAT table is
 # specified here as a list of axis names, tags and values. You
