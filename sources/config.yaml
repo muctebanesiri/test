@@ -1,9 +1,1 @@
-sources:
-  - robomatn.ufo
-
-familyName: "RoboMatn"
-
-buildVariable: false
-buildStatic: true
-buildTTF: true
-buildOTF: false
+sources: robomatn.ufo
