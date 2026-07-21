@@ -8,3 +8,6 @@ buildStatic: true
 buildTTF: true
 buildOTF: false
 buildSmallCap: false
+
+# Disable overlap removal – it fails on qcurve glyphs
+removeOutlineOverlaps: false
