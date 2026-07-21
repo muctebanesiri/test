@@ -10,6 +10,3 @@ buildOTF: false
 buildSmallCap: false
 
 removeOutlineOverlaps: false
-
-# Disable feature compilation to avoid missing glyph errors
-extraFontmakeArgs: "--feature-writer None"
