@@ -34,9 +34,19 @@ for line in data.splitlines():
     if toggle:
         m = re.match(r"^\s*-\s*(.*)", line)
         if m:
-            sources.append("sources/" + m[1])
+            raw = m[1].strip()
+            # If the line looks like "path: robomatn.ufo" (map style),
+            # extract the value after the colon.
+            if ":" in raw:
+                # Split on first colon and take the right part, strip spaces
+                parts = raw.split(":", 1)
+                if len(parts) == 2:
+                    raw = parts[1].strip()
+            sources.append("sources/" + raw)
         else:
+            # End of sources list if we encounter a non‑dash line
             toggle = False
+
 if sources:
     print(" ".join(sources))
     sys.exit(0)
