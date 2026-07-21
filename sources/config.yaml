@@ -1,27 +1,9 @@
-# The configuration for the builder is in YAML format. You can use
-# https://www.yamllint.com/ to make sure that your configuration
-# file is correctly formatted.
-
-# Define the source file(s)
 sources:
-  - path: robomatn.ufo
-    # Explicitly list the static outputs you want
-    outputs:
-      - path: RoboMatn-Regular.ttf
-        weight: 400
-        style: normal
-      - path: RoboMatn-Bold.ttf
-        weight: 700
-        style: normal
+  - robomatn.ufo
 
-# Family name – must match the font's internal naming
 familyName: "RoboMatn"
 
-# Build settings
 buildVariable: false
 buildStatic: true
 buildTTF: true
 buildOTF: false
-
-# All other options are left at their defaults
-# (autohint, source fixes, etc. are commented out)
