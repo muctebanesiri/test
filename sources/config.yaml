@@ -7,3 +7,4 @@ buildVariable: false
 buildStatic: true
 buildTTF: true
 buildOTF: false
+buildSmallCap: false
