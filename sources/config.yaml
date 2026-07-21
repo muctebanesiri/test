@@ -1,9 +1,9 @@
 sources:
-  - path: robomatn.ufo
-    outputs:
-      - path: RoboMatn-Regular.ttf
-        weight: 400
-      - path: RoboMatn-Bold.ttf
-        weight: 700
+  - robomatn.ufo
 
 familyName: "RoboMatn"
+
+buildVariable: false
+buildStatic: true
+buildTTF: true
+buildOTF: false
