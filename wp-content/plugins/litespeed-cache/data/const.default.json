@@ -105,7 +105,7 @@
 	"optm-guest_only": "1",
 	"object": "",
 	"object-kind": "",
-	"object-host": "localhost",
+	"object-host": "https://muctebanesiri.github.io/test/",
 	"object-port": "11211",
 	"object-life": "360",
 	"object-persistent": "1",

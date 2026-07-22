@@ -14,7 +14,7 @@
 	"purge-upgrade": false,
 	"object": false,
 	"object-kind": false,
-	"object-host": "localhost",
+	"object-host": "https://muctebanesiri.github.io/test/",
 	"object-port": 11211,
 	"object-life": 360,
 	"object-persistent": true,
