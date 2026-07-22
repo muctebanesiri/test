@@ -2712,7 +2712,7 @@ var RouterCore = class {
         if (!this.isServer && window?.origin && window.origin !== "null") {
           this.origin = window.origin;
         } else {
-          this.origin = "http://https://muctebanesiri.github.io/";
+          this.origin = "https://muctebanesiri.github.io/";
         }
       }
       if (this.history) {
